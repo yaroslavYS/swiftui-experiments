@@ -6,6 +6,10 @@ A lightweight, customizable, and dependency-free solution for creating shimmerin
 
 ## Overview
 
+
+https://github.com/user-attachments/assets/a9879d3e-107f-4445-a4c1-8e984f25712a
+
+
 When building applications, providing users with a clear loading state is crucial for a good user experience. The standard `.redacted(reason: .placeholder)` modifier in SwiftUI is a quick solution, but it lacks visual appeal and customization options—it offers no shimmer animation and limited shape control. On the other hand, third-party libraries can add unnecessary dependencies and overhead to a project.
 
 This repository offers a custom `.skeleton()` view modifier that is both powerful and easy to integrate, allowing you to create beautiful, animated loading placeholders that match your app's design.
